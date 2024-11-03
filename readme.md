@@ -157,7 +157,7 @@ Com base nas suas respostas, vou gerar um plano de treino personalizado que se a
 - **Dia C:** Pernas e Ombros
   - Agachamento
   - Elevação lateral
-  - Stiff"
+  - Stiff
 
 
 ---
